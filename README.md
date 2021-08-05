@@ -1,4 +1,4 @@
-# TCPing_GUI
+# EasyTCPing
 
 TCPing 是一个命令行工具，用于测试指定端口的通断，类似于Windows上的Ping命令。
 
